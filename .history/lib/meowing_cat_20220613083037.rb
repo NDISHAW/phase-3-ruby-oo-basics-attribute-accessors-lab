@@ -5,10 +5,9 @@
 #   puts word[0]
 # end
 
-class Cat
-    attr_accessor :name
-
-    def meow
-        puts "meow!"
+class class ClassName
+    def initialize
+        
     end
+end
 end

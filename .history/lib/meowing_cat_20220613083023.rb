@@ -4,11 +4,3 @@
 # mantra.map do |word|
 #   puts word[0]
 # end
-
-class Cat
-    attr_accessor :name
-
-    def meow
-        puts "meow!"
-    end
-end
